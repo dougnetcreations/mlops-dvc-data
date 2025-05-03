@@ -1,0 +1,6 @@
+[project]
+name = "mlops"
+version = "0.1.0"
+dependencies = [
+    "pandas>=2.2.3",
+]
