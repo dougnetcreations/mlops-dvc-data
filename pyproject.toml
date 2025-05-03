@@ -1,6 +1,13 @@
 [project]
+<<<<<<< HEAD
 name = "mlops"
 version = "0.1.0"
 dependencies = [
+=======
+name = "your-project-name"
+version = "0.1.0"
+dependencies = [
+    "dvc>=3.59.1",
+>>>>>>> 86c47bf (added dvc)
     "pandas>=2.2.3",
 ]
